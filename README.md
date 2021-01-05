@@ -1,2 +1,2 @@
-# clothes-classification
-A fashion-MNIST based classification project.
+# Tensorflow Practice
+1. A fashion-MNIST based classification project.
